@@ -16,7 +16,7 @@
 
 ![seoyun0311's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyun0311&show_icons=true&theme=radical) 
 
-[![Solved.ac
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=tjdbs49607&theme=warm) [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdbs49607)](https://solved.ac/tjdbs49607)
 
 
