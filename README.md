@@ -4,11 +4,11 @@
 </div>
 
 ## 🎓 Education & Certification
-- Dankook University, Industrial Engineering | 2026.02  
-- Groom Project – Cloud Engineering Program | 2025.12 ~  
-- Match-Up Cloud Infrastructure Architecture Competency Certification | 2025.12  
-- CJ OliveNetworks CLOUD WAVE 4th | 2024.12  ~ 2025.02  
-- NHN Cloud Essentials (CES)
+- **Dankook University, Industrial Engineering** | 2026.02  
+- **Groom Project – Cloud Engineering Program** | 2025.12 ~  
+- **Match-Up Cloud Infrastructure Architecture Competency Certification** | 2025.12  
+- **CJ OliveNetworks CLOUD WAVE 4th** | 2024.12  ~ 2025.02  
+- **NHN Cloud Essentials (CES)**
 
 
 
