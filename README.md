@@ -5,7 +5,7 @@
 
 ## 🎓 Education & Certification
 - **Dankook University, Industrial Engineering** | 2026.02  
-- **Groom Project – Cloud Engineering Program** | 2025.12 ~  
+- **KT Cloud X Groom PROFECT – Cloud Engineering Project** | 2025.12 ~  
 - **Match-Up Cloud Infrastructure Architecture Competency Certification** | 2025.12  
 - **CJ OliveNetworks CLOUD WAVE 4th** | 2024.12  ~ 2025.02  
 - **NHN Cloud Essentials (CES)**
@@ -40,5 +40,6 @@
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyun0311&layout=compact&theme=light)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdbs49607)](https://solved.ac/tjdbs49607/)
+<img src="http://mazandi.herokuapp.com/api?handle=tjdbs49607&theme=warm"/>
