@@ -7,7 +7,8 @@
 - **Dankook University, Industrial Engineering** | 2026.02  
 - **KT Cloud X Groom PROFECT – Cloud Engineering Project** | 2025.12 ~  
 - **Match-Up Cloud Infrastructure Architecture Competency Certification** | 2025.12  
-- **CJ OliveNetworks CLOUD WAVE 4th** | 2024.12  ~ 2025.02  
+- **CJ OliveNetworks CLOUD WAVE 4th** | 2024.12  ~ 2025.02
+- **AWS Certified Solutions Architect - Associate**
 - **NHN Cloud Essentials (CES)**
 
 
